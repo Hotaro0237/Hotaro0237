@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Hotaro0237
-- 👀 I’m interested in Whatsapp Bots
+- 👀 I’m interested in Bots
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
